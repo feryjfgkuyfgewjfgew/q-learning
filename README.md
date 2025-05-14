@@ -64,8 +64,9 @@ def q_learning(env,
 
 
 ## OUTPUT:
-![Screenshot 2025-05-09 144406](https://github.com/user-attachments/assets/0262dc54-43e5-407f-8d77-8f5451ac6ce4)
-![Screenshot 2025-05-09 144711](https://github.com/user-attachments/assets/edf1791f-bf07-42bd-a915-b3d0daf4d273)
+![Screenshot 2025-05-14 205044](https://github.com/user-attachments/assets/088592bf-2de5-416c-a6d2-9418cbccbb2a)
+![Screenshot 2025-05-14 205122](https://github.com/user-attachments/assets/6f41cb3c-d6b0-44be-a5a0-67ca545cba72)
+![Screenshot 2025-05-14 205207](https://github.com/user-attachments/assets/fb927404-872a-4c4a-a718-e6957f9d7acc)
 ![11](https://github.com/user-attachments/assets/5a44ca2a-3b87-4cba-b395-27bae5ea51b2)
 ![2](https://github.com/user-attachments/assets/12b843bb-c6c1-4f58-8084-c1126bb63db2)
 
